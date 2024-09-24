@@ -1,0 +1,90 @@
+body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+  }
+  body {
+    background-image: url('/bkd.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  /* Header (div) formatting */
+  .header {
+    padding: 10px;
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  
+  .header h1 {
+    font-size: 50px;
+    text-align: center;
+       
+     }
+  
+  
+  /* Make the logo have a rounded edge */
+  .centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%; /* Adjust the width of the image */
+    max-width: 500px; /* Set a maximum width for the image */
+    border-radius: 8px; /* Add rounded corners */
+  }
+  
+  /* Style the top navigation bar */
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Style the content */
+  .content {
+    background-color: #ddd;
+    padding: 10px;
+  }
+  
+  /* Style the footer */
+  .footer {
+    background-color: #000000; /* Set the background color to black */
+    color: #ffffff; /* Set the text color to white */
+    padding: 10px;
+  }
+  
+  /* Additional styles */
+  .content h1,
+  .content p {
+    text-align: center;
+    /* Center align the h1 and p elements */
+  }
+  
+  .content p {
+    font-weight: bold;
+    /* Make the p element bold */
+    font-size: 18px;
+    /* Increase the font size of paragraphs */
+  }
+  
+  /* Center align the "Climate Change Awareness" heading */
+  
+  
